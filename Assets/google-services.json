@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "393353940699",
+    "firebase_url": "https://casa-do-tatu-default-rtdb.firebaseio.com",
+    "project_id": "casa-do-tatu",
+    "storage_bucket": "casa-do-tatu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393353940699:android:53aeb85a12f4e6714606fe",
+        "android_client_info": {
+          "package_name": "com.casadotatu.casadotatu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393353940699-g6itko3o52mrbjebad7hs1b2qhdl3u4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz2xAoCOr1nTQmI2JEPwDsMFx5ogTBaA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393353940699-g6itko3o52mrbjebad7hs1b2qhdl3u4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

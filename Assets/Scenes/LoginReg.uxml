@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="height: 450px; width: 501px;">
+        <ui:Label text="LOGIN" display-tooltip-when-elided="true" style="position: absolute; top: 112px; left: 230px; height: 17px; width: 51px; -unity-font: url(&apos;project://database/Assets/TextMesh%20Pro/Fonts/Galindo-Regular.ttf?fileID=12800000&amp;guid=ca7a521034552f743b73a8e18e83ceb2&amp;type=3#Galindo-Regular&apos;);" />
+    </ui:VisualElement>
+</ui:UXML>

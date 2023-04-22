@@ -11,10 +11,13 @@ promovendo o pensamento crítico sobre tal.
 
 ## Prévia da aplicação
 ![Tela inicial](readme_images/casa_do_tatu.jpg)
+
 Tela inicial
 
 ![Tela de login](readme_images/casa_do_tatu_2.jpg)
+
 Tela de Login
+
 ## Requisitos
 Para rodar o projeto, é necessário ter instalado na máquina:
 

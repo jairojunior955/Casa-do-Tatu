@@ -10,12 +10,11 @@ inúmeros mini-games que busquem fazer a correlação com a problemática envolv
 promovendo o pensamento crítico sobre tal.
 
 ## Prévia da aplicação
-![Tela inicial](readme_images/casa_do_tatu.jpg)
+<img src="readme_images/casa_do_tatu.jpg" alt="Tela inicial" width="25%"/>
 
 Tela inicial
 
-![Tela de login](readme_images/casa_do_tatu_2.jpg)
-
+<img src="readme_images/casa_do_tatu_2.jpg" alt="Tela de login" width="25%"/>
 Tela de Login
 
 ## Requisitos

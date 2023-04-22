@@ -5,8 +5,16 @@ Unity.
 ## Descrição
 O projeto foi desenvolvido no Unity, uma plataforma de desenvolvimento de jogos e aplicativos
 em 2D e 3D. O objetivo do projeto é incentivar as crianças por meio de uma aplicação gamificada
-e lúdica à preservação ambiental com o foco na ilha de cotijuba.
+e lúdica à preservação ambiental com o foco na ilha de Cotijuba. A gamificação irá compreer 
+inúmeros mini-games que busquem fazer a correlação com a problemática envolvida, assim sendo
+promovendo o pensamento crítico sobre tal.
 
+## Prévia da aplicação
+![Tela inicial](readme_images/casa_do_tatu.jpg)
+Tela inicial
+
+![Tela de login](readme_images/casa_do_tatu_2.jpg)
+Tela de Login
 ## Requisitos
 Para rodar o projeto, é necessário ter instalado na máquina:
 

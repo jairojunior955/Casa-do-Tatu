@@ -35,10 +35,8 @@ Para rodar o projeto, é necessário ter instalado na máquina:
 
 ## Como rodar o projeto
 Para rodar o projeto, siga os seguintes passos:
-1. Faça o clone do repositório em sua máquina.
-2. Abra o Unity Hub e selecione o projeto.
-3. Aguarde o Unity importar todos os arquivos do projeto.
-4. Clique em "Play" para rodar o projeto.
+1. Abra o Unity Hub e selecione o projeto.
+2. E abra o arquivo .unitypackage
 
 ## Autores
 ● Wagner Wendell Silva Ribeiro Filho (linkedin.com/in/wagner-filho-03b343232) -

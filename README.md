@@ -10,12 +10,23 @@ inúmeros mini-games que busquem fazer a correlação com a problemática envolv
 promovendo o pensamento crítico sobre tal.
 
 ## Prévia da aplicação
+### Tela inicial
 <img src="readme_images/casa_do_tatu.jpg" alt="Tela inicial" width="25%"/>
 
-Tela inicial
+### Tela de Registro
+<img src="readme_images/register.jpeg" alt="Tela de registro" width="25%"/>
 
+### Tela de Login
+<img src="readme_images/login.jpeg" alt="Tela de login" width="25%"/>
+
+### Tela de Fases
 <img src="readme_images/casa_do_tatu_2.jpg" alt="Tela de login" width="25%"/>
-Tela de Login
+
+### Reciclando
+<img src="readme_images/reciclando.jpeg" alt="Tela de login" width="25%"/>
+
+### Caça ao lixo
+<img src="readme_images/caca ao lixo.jpeg" alt="Tela de login" width="25%"/>
 
 ## Requisitos
 Para rodar o projeto, é necessário ter instalado na máquina:
